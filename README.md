@@ -94,5 +94,5 @@ AI & Data Science Student | AI/ML Enthusiast | Aspiring AI Engineer
 
 ⭐ If you find this project interesting, consider starring the repository on GitHub and sharing your feedback!
 
-**Try it now:** [Persona AI — Live Application](https://argus-ai-multi-agent-system-deployed-harsh.streamlit.app)
+**Try it now:** [Persona AI — Live Application](https://persona-ai-app-harsh.streamlit.app)
 
